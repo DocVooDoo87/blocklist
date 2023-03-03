@@ -1,7 +1,6 @@
 # Version: 1.0
-# Description: Blockiert die Browser Spiele meiner Kinder auf ihren 
-schulischen iPads. 
-# Title: Sprowserspiel_Blocklist
+# Description: Browsergames im deutschsprachigen Raum blockieren  
+# Title: Browserspiele Blocklist
 # Last modified: 2023-03-03
 # Expires: 
 # Homepage: 
