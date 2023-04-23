@@ -7,18 +7,32 @@
 # Syntax: Domains 
 
 yandex.com
+www.yandex.com
 crazygames.com
+www.crazygames.com
 poki.de
+www.poki.de
 bloxd.io
+www.bloxd.io
 kahoot.it
+www.kahoot.it
 toggo.de
+www.toggo.de
 gamenomo.com
-crazygames.com
+www.gamenomo.com
 browsergames.de
+www.browsergames.com
 spielaffe.de
+www.spielaffe.de
 spiele123.com
+www.spiele123.com
 browsergames.org
+www.browsergames.org
 playit-online.de
+www.playit-online.de
 mmobomb.com
+www.mmobomb.com
 myinstants.com
+www.myinstants.com
 vseigru.net
+www.vseigru.net
