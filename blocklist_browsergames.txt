@@ -1,7 +1,7 @@
 # Version: 1.0
 # Description: Browsergames im deutschsprachigen Raum blockieren  
 # Title: Browserspiele Blocklist
-# Last modified: 2023-03-15
+# Last modified: 2024-05-23
 # Expires: 
 # Homepage: 
 # Syntax: Domains 
@@ -36,3 +36,9 @@ myinstants.com
 www.myinstants.com
 vseigru.net
 www.vseigru.net
+www.mmoscout.net
+mmoscout.net
+www.browsergame-base.de
+browsergame-base.de
+www.battle-land.com
+battle-land.com
