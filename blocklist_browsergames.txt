@@ -1,7 +1,7 @@
 # Version: 1.0
 # Description: Browsergames im deutschsprachigen Raum blockieren  
 # Title: Browserspiele Blocklist
-# Last modified: 2024-05-23
+# Last modified: 2024-10-14
 # Expires: 
 # Homepage: 
 # Syntax: Domains 
@@ -42,3 +42,7 @@ www.browsergame-base.de
 browsergame-base.de
 www.battle-land.com
 battle-land.com
+play.works
+sky.as.apps_play.works
+apps_play.works
+
