@@ -44,7 +44,13 @@ www.battle-land.com
 battle-land.com
 play.works
 service.play.works
+analytics.play.works
+exchange.play.works
+sky.play.works
+sky.play.works.sky.as.apps_play.works
 sky.as.apps_play.works
 apps_play.works
 springserve.com
 tv.springserve.com
+playback.exp.xvp.eu-1.xcal.tv
+
