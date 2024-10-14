@@ -43,6 +43,7 @@ browsergame-base.de
 www.battle-land.com
 battle-land.com
 play.works
+service.play.works
 sky.as.apps_play.works
 apps_play.works
 springserve.com
